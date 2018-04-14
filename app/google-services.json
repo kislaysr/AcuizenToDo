@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073359091775",
+    "firebase_url": "https://acuizentodo.firebaseio.com",
+    "project_id": "acuizentodo",
+    "storage_bucket": "acuizentodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073359091775:android:663206c17ae5314c",
+        "android_client_info": {
+          "package_name": "com.example.kislay.acuizentodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073359091775-spkj5g22adh3uiucrm5e51irm5irotcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kislay.acuizentodo",
+            "certificate_hash": "198fcf83b00f2e89fd8a62daf1109625178fb644"
+          }
+        },
+        {
+          "client_id": "1073359091775-v84mm0098709cli627beeech77oqv1fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLGcU_CHaBVPiiN_QWVbq2AOFZdl2biU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073359091775-v84mm0098709cli627beeech77oqv1fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
